@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umauka
 - 👀 I’m interested in Software Quality Assurance and Automated Testing
-- 🌱 I’m currently exploring Playwright
+- 🌱 I’m currently exploring the OWASP methodology
 - 💞️ I’m looking to collaborate on Test Automation Projects
 - 📫 You can reach me via this email: uma.uka@outlook.com or phone: +234(0)8066913442
 
